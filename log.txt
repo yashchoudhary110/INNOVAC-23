@@ -1,0 +1,5 @@
+commit d2a20e6aeee09dacd06fd6b498bfc722a8ec09e2
+Author: YashChoudhary <yashchoudhary572001@gmail.com>
+Date:   Fri Nov 4 18:46:01 2022 +0530
+
+    added:Resume and Event Idea
